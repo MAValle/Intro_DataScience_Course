@@ -1,4 +1,4 @@
-# Introduction to Data Science, a statistical perspectiva
+# Introduction to Data Science, a statistical perspective
 
 I present a list of R codes for an introductory course in data science, organized by subject area. **Note**: The list does not include course notes and concepts.
 
